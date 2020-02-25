@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--konnect OBD read KML 模板-->
+<!--suppress ALL-->
+<Response id="r1">
+    <Read">Dear Bob, your loan of Rs 100.22 is already overdue by 3 days.</Read>
+</Response>
